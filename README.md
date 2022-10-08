@@ -2,6 +2,10 @@
 
 A game that is somewhat similar to Rodent’s Revenge (https://en.wikipedia.org/wiki/Rodent%27s_Revenge)
 
+## Demo
+
+[![Watch the video](https://img.youtube.com/vi/6NmrODfm9es/hqdefault.jpg)](https://www.youtube.com/watch?v=6NmrODfm9es)
+
 During the game, raccoons try to climb into one of the available garbage cans. The main player aims to prevent the raccoons from reaching the garbage cans by trapping them using recycling bins.
 
 Each character takes up exactly one tile, except that a raccoon can crawl inside an open garbage can, in which case there will be two characters (a raccoon and a garbage can) on the same tile.
